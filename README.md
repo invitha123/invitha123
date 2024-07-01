@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM**
 
-- 👯 I’m looking to collaborate on **ECOMMERCE-WEBSITE**
+- 👯 I’m looking to collaborate on **ECOMMERCE WEBSITE**
 
 - 📫 How to reach me **induendluri@gmail.com**
 
